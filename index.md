@@ -8,7 +8,7 @@ This will serve as a brief description of your project. Limit this to three sent
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 
 <html>
- <iframe src="https://giphy.com/embed/I9nBRqpoxQ60U" width="480" height="246" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kiss-fish-I9nBRqpoxQ60U">via GIPHY</a></p>" alt="Flowers in Chania"> 
+ <iframe src="https://giphy.com/embed/I9nBRqpoxQ60U">
 </html>
 
 # Final Milestone
