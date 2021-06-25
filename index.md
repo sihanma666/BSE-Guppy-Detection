@@ -5,7 +5,7 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Sihan Ma | Saratoga Highschool | hmmm | Incoming Junior
 
-<img src="guppygif1.gif" /> 
+<img src="C:\Users\sihan\Documents\2021 summer\bluestamp\guppygif1.gif" /> 
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 
