@@ -6,6 +6,7 @@ This will serve as a brief description of your project. Limit this to three sent
 | Sihan Ma | Saratoga Highschool | hmmm | Incoming Junior
 
 <html>
+  <center>
   <img src="https://thumbs.gfycat.com/GrizzledGrayImago-max-1mb.gif">
   </center>
   
