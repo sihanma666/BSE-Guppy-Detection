@@ -18,6 +18,15 @@ while True:
     response = requests.post(url, auth=requests.auth.HTTPBasicAuth('VuQnpnWewkvGPzKMmv0EM_CgE6zElUmc', ''), files=data)
     print(response.text)
     
+    score = xmax = xmin = ymax = ymin = 0
+    for x in d['result'][0]['prediction']:
+        if x['score'] > score:
+            score = x['score']
+            xmax = x['xmax']
+            xmin = x['xmin']
+            ymax = x['ymax']
+            ymin = x['ymin']
+    
     cv2.imshow("Frame", frame)
 
     if cv2.waitKey(1) & 0xFF == ord(*'g'):
