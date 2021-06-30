@@ -21,12 +21,13 @@ while True:
     print('API called')
     
     d = json.loads(response.text)
+    print(d)
     
-    score = d['result'][0]['predictions'][0]['score']
-    xmax = d['result'][0]['predictions'][0]['xmax']
-    xmin = d['result'][0]['predictions'][0]['xmin']
-    ymax = d['result'][0]['predictions'][0]['ymax']
-    ymin = d['result'][0]['predictions'][0]['ymin']
+    score = d['result'][0]['prediction'][0]['score']
+    xmax = d['result'][0]['prediction'][0]['xmax']
+    xmin = d['result'][0]['prediction'][0]['xmin']
+    ymax = d['result'][0]['prediction'][0]['ymax']
+    ymin = d['result'][0]['prediction'][0]['ymin']
     
     #if score<0.8:
         
