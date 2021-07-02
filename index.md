@@ -10,9 +10,7 @@ This will serve as a brief description of your project. Limit this to three sent
   <img src="https://thumbs.gfycat.com/GrizzledGrayImago-max-1mb.gif">
   </center>
   
-</html>
 
-<html>
 <body>
 
   <iframe width="560" height="315" 
