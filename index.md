@@ -1,5 +1,5 @@
 ﻿# Guppy Detection
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -20,6 +20,7 @@ This will serve as a brief description of your project. Limit this to three sent
 </body>
 </html>
 
+1st Milestone
 Set up raspberry desktop & camera 
 Install raspi imagera onto sd card
 Configure wifi settings
